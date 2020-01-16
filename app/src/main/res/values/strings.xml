@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Message Logger</string>
+    <string name="message_date_text">Message Date</string>
+    <string name="user_name_text">User Name</string>
+    <string name="message_title_text">Message Title</string>
+    <string name="message_content_text">This is the message content</string>
+</resources>
